@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "96fdf5f5_c2d77eef",
+        "filename": "res/values/styles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-01-12T09:19:52Z",
+      "side": 0,
+      "message": "This was changed to 120dip in original commit, but after merge it\u0027s not there anymore in LineageOS.",
+      "revId": "ce44b045c74195d2b67294cb909814016e2be005",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
